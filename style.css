@@ -63,6 +63,6 @@ button{
   }
   @media screen and (max-width: 992px) {
     form {
-      width: 60%;
+      width: 40%;
     }
   }
